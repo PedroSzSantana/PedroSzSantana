@@ -1,0 +1,19 @@
+.title-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    flex-direction: column;
+    height: 100px;
+}
+.title-section::after {
+    display: block;
+    content: "";
+    width: 100px;
+    height: 4px;
+    background-color: #fe7467;
+    margin-top: 8px;
+}
+.title-white::after {
+    background-color: #ffff;
+}

@@ -1,0 +1,82 @@
+.header {
+    background-image: url(../imagens/spidermanheader.jpg);
+}
+#title-spiderman {
+    width: 20%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.grids-sections {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+}
+.section-thor {
+    background-image: url(../imagens/thor_header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    aspect-ratio: 17/9;
+}
+.paragraph {
+    display: flex;
+    grid-column: 2/3;
+    text-align: left;
+    margin-top: 10%;
+    font-weight: 700;
+    color: #ffff;
+}
+.color-wihte {
+    color: #ffff !important;
+}
+#article-img-bnc {
+    width: 100%;
+}
+.pargraph-bonecos {
+    display: flex;
+    grid-column: 2/3;
+    align-items: center;
+}
+.text-boneco {
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 500px) {
+    .header {
+        background-image: url(../imagens/spidermanheader_mobile.jpg);
+        background-position-x: -80px;
+    }
+    #title-spiderman {
+        width: 150px;
+        margin-left: 15px;
+        margin-top: 80px;
+        margin-bottom: 30px;
+    }
+    .div-section-thor{
+        display: flex;
+    }
+    .paragraph {
+        text-align: center;
+        margin-top: 0 !important;
+    }
+    .div-section-boneco {
+        display: flex;
+        flex-direction: column-reverse;
+        width: 100%;
+    }
+    .pargraph-bonecos {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+    }
+    .text-boneco {
+        text-align: center;
+        width: 320px;
+    }
+    .botton-home-catalogo {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .section-thor {
+        background-position-x: -200px;
+    }
+}
