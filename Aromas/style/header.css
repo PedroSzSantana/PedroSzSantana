@@ -1,0 +1,29 @@
+
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+    background-color: #eceeef;
+    border-bottom: 2px solid #a5bac5;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.header-logo {
+    display: block;
+    width: 200px;  
+}
+
+.header-logo img {
+    width: 100%
+}
+
+.header-navegacao-item {
+    display: inline;
+    padding: 0 4px;
+}
+
+

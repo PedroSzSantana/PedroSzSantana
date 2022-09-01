@@ -1,0 +1,24 @@
+.botton {
+    border: 2px solid #2a0f14;
+    border-radius: 12px;
+    padding: 8px 24px;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: none;
+    color: #fff;
+    background-color: #2a0f14;
+}
+.botton:hover {
+    color: #2a0f14;
+    background-color: transparent;
+    text-decoration: none;
+
+}
+.botton-outline{
+    color: #2a0f14;
+    background-color: transparent;
+}
+.botton-outline:hover {
+    color: #ffff;
+    background-color: #2a0f14;
+}

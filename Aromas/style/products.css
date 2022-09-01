@@ -1,0 +1,23 @@
+.products-card {
+    display: flex;
+    gap: 16px;
+}
+.products-card-image {
+    object-fit: cover;
+}
+.products-card:nth-of-type(2n) {
+    flex-direction: row-reverse;
+    text-align: right;
+    margin: 16px 0;
+}
+.products-card-colums {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    height: 350px;
+}
+.products-card-title {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
