@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **PedroSzSantana/PedroSzSantana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1> Prazer meu nome é Pedro <h1>
+<h3>Estou estudando Desenvolvimento web, no meu repositorio estão alguns projetos que foram desenvolvolvidos por mim.<h3>
+<h3>Meios de contato:<h3>
+<a href="https://www.linkedin.com/in/pedro-souza-3ab330226/">Linkedin<a>
+<h3>Email: <a href="mailto:pedrosouza-s@hotmail.com" target="_blank">pedrosouza-s@hotmail.com<a><h3>
