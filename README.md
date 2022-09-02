@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> Prazer meu nome é Pedro </h1>
-<h3>Estou estudando Desenvolvimento web, no <a href="https://github.com/PedroSzSantana/PedroSzSantana">meu repositorio</a> estão alguns dos projetos desenvolvolvidos por mim.</h3>
+<h3>Estou estudando Desenvolvimento web, no <a href="https://github.com/PedroSzSantana/PedroSzSantana">meu repositório</a> estão alguns dos projetos desenvolvolvidos por mim.</h3>
 <h3>Meios de contato:</h3>
 <h3>Linkedin: <a href="https://www.linkedin.com/in/pedro-souza-3ab330226/">Pedro Souza</a></h3>
 <h3>Email: <a href="mailto:pedrosouza-s@hotmail.com" target="_blank">pedrosouza-s@hotmail.com</a></h3>
