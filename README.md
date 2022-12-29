@@ -1,8 +1,8 @@
-<h1>Prazer, me chamo Pedro Souza.</h1>
+<h1>Prazer, me chamo Pedro Souza</h1>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSzSantana&show_icons=true&theme=radical)
-
-<div>
-<a href="https://github.com/PedroSzSantana?tab=repositories">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSzSantana&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+- Front End Developer
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSzSantana)](https://github.com/PedroSzSantana/github-readme-stats)
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSzSantana&layout=compact)](https://github.com/PedroSzSantana/github-readme-stats)
+  
