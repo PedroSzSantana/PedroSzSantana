@@ -1,6 +1,6 @@
 <h1>Prazer, me chamo Pedro Souza</h1>
 
-- Front End Developer
+- Full Stack Developer
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSzSantana)](https://github.com/PedroSzSantana/github-readme-stats)
     
