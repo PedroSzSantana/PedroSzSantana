@@ -1,7 +1,6 @@
-<h1>Prazer, me chamo Pedro Souza</h1>
+<h1>Hi, I'm Pedro Souza</h1>
 
-## Full Stack Developer
-  
+### I'm a Full Stack Developer
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSzSantana&show_icons=true&count_private=true&hide_border=true&title_color=6495ED&icon_color=ffff&text_color=ffff&bg_color=0d1117" alt="Pedro Souza github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSzSantana&layout=compact&hide_border=true&title_color=6495ED&text_color=ffff&bg_color=0d1117" />
