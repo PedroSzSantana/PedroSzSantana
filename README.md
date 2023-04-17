@@ -2,7 +2,8 @@
 
 - Full Stack Developer
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroSzSantana)](https://github.com/PedroSzSantana/github-readme-stats)
-    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSzSantana&layout=compact)](https://github.com/PedroSzSantana/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PedroSzSantana&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Pedro Souza github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSzSantana&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
+</div>
   
